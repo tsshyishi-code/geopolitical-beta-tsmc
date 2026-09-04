@@ -3,7 +3,8 @@
 
 **How do financial markets price geopolitical risk?** 
 This project builds two quantitative tools to answer 
-the question. It uses TSMC as the main case study and combines a dataset of 55 U.S. semiconductor sanctions with data from the stock market and Taiwan's geopolitical risk index.
+the question. It uses Taiwan Semiconductor Manufacturing Company (TSMC) as the main case study and combines a dataset of 
+55 U.S. semiconductor sanctions with data from the stock market and Taiwan's geopolitical risk index.
 
 ---
 
@@ -32,10 +33,11 @@ as tensions escalated under Trump 2.0.
 
 **3. Geopolitical risk is priced structurally, not event-by-event.**
 The lack of significant short-term CARs, together with the pattern of Geo-Beta 
-tell the same story: rather than causing sharp market reactions, repeated sanctions 
-appear to have become part of TSMC’s baseline risk premium. Interviews with 
-Taiwanese suppliers support this interpretation. Many of them view export controls 
-mainly as a matter of paperwork, which may reduce the market fluctuations of each new announcement.
+suggest that rather than causing sharp market reactions, repeated sanctions 
+appear to have become part of TSMC’s baseline risk premium. This is consistent with 
+the results of interviews from Taiwanese supplies that repeated sanctions 
+gradually lose their surprise value as companies develop 
+established compliance routines.
 
 ---
 
