@@ -3,9 +3,7 @@
 
 **How do financial markets price geopolitical risk?** 
 This project builds two quantitative tools to answer 
-the question. It uses TSMC as the main case study and combines a  
-dataset of 55 U.S. semiconductor sanctions with data from the stock market and 
-Taiwan's geopolitical risk index.
+the question. It uses TSMC as the main case study and combines a dataset of 55 U.S. semiconductor sanctions with data from the stock market and Taiwan's geopolitical risk index.
 
 ---
 
